@@ -1,0 +1,21 @@
+{
+  "algorithm": "sha256",
+  "files": [
+    {
+      "path": "level.dat",
+      "sha256": "051a42e2103c80e817b8596b408f1b5015b8ba3afb8120c86e0a2ee4413ae5c1",
+      "size": 56
+    },
+    {
+      "path": "level.json",
+      "sha256": "81af498cf82ae503ddf9cbe89bf3f508cbb5b1284ac74fc6a4260a6679f333ca",
+      "size": 57
+    },
+    {
+      "path": "region/r.0.0.mca",
+      "sha256": "f20b70e4c8b520ae968b4251469ee9850059a59e22bba7137ba1fef1823042cf",
+      "size": 25
+    }
+  ],
+  "format_version": 1
+}
